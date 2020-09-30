@@ -55,7 +55,7 @@ public function Ingresar(){
 			// </script>";
 
 			echo    "<script type=\"text/javascript\">
-			           window.location=\"".$uri."/autenticacion/basedatosphp/admin.php\";
+			           window.location=\"".$uri."/autenticacion/autenticacion/basedatosphp/admin.php\";
 			          </script>";
 
 		} 

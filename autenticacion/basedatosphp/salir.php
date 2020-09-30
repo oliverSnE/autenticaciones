@@ -15,7 +15,7 @@ if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
   	//Modificar como en la siguiente linea de codigo
   	//si es que esta en un subdirectorio
   	// header("location: ".$uri."/wp-admin"); 
-    header("location: ".$uri);		   
+    header("location: ".$uri."/autenticacion/");		   
 
  ?>
 
